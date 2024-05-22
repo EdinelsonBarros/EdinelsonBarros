@@ -6,4 +6,10 @@
 - 👥 Ajuda no meu aprendizado é sempre bem vinda.
 - 📫 Casso queira falar comigo, meu email é edinelsonl98@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edinelsonbarros&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/edinelsonbarros/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=edinelsonbarros&show_icons=true&theme=dark">
+<a/>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinelsonbarros&layout=compact&theme=dark">
+<a/>
